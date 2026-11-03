@@ -50,6 +50,6 @@ Official canonical archive for the **Grand Unified Framework** research series, 
 
 * **Non-Commercial Academic Use (`CC BY-NC 4.0`):** Non-commercial academic research, educational use, and independent verification are freely permitted with proper attribution and primary reference citation.
 * **Prior Art & Patent Reservation:** All disclosed mathematical equations and system architectures constitute published **Prior Art**. All domestic and international patent rights are expressly reserved by the original author, **Arkhenomia Institute**, and **Arkhenetics**.
-* **Commercial Licensing (`Arkhenetics`):** Any commercial use, corporate R&D, enterprise deployment, AI distillation/surrogate training, or kernel/hardware/firmware implementation (**ZINN** / **Ark-ZPF**) requires a separate written commercial license agreement with the Author or **Arkhenetics** ([arkhenetics.com](https://arkhenetics.com)), governed by the latest [`LICENSE.txt`](./LICENSE.txt) (Policy v2.2.2+).
+* **Commercial Licensing (`Arkhenetics`):** Any commercial use, corporate R&D, enterprise deployment, AI distillation/surrogate training, or kernel/hardware/firmware implementation requires a separate written commercial license agreement with the Author or **Arkhenetics** ([arkhenetics.com](https://arkhenetics.com)), governed by the latest [`LICENSE.txt`](./LICENSE.txt) (Policy v2.2.2+).
 
 © 2026 Jung Soo Kim ([Arkhenomia Institute](https://arkhenomia.org) & [Arkhenetics](https://arkhenetics.com)). All rights reserved.
