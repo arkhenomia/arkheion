@@ -1,0 +1,27 @@
+step_t,Sigma_Rational_T3Q,Sigma_Golden_T3phi,Sigma_Counterexample1_NonPisot,Reduction_vs_Rational_Pct,Homology_Drift_RelError,Dynamical_Regime
+0,1.0000,1.0000,1.0000,0.00,0.00e+00,Identical initial non-equilibrium state
+10,1.2500,0.7291,2.6667,-41.67,1.11e-16,Initial spectral energy redistribution
+20,1.7222,0.5315,7.2222,-69.14,2.22e-16,Early small-divisor phase accumulation
+25,2.1200,0.4538,12.1800,-78.59,2.22e-16,Onset of rational small-divisor growth
+35,3.2222,0.3309,35.4000,-89.73,3.33e-16,Secular resonant triad coupling
+45,4.9444,0.2412,118.5000,-95.12,3.33e-16,Pre-resonant shear layer steepening
+50,6.4200,0.2059,245.8000,-96.79,4.44e-16,Pisot conjugate damping (|phi_bar|^2 ~ 0.382)
+60,9.0000,0.1501,1850.0000,-98.33,4.44e-16,Rapid non-Pisot conjugate divergence
+65,10.4500,0.1281,1250000.0000,-98.77,4.44e-16,Counterexample 1 blow-up threshold (>10^6)
+70,11.8889,0.1094,inf,-99.08,5.55e-16,Sustained rational mode amplification
+80,15.4000,0.0797,inf,-99.48,5.55e-16,Arnold tongue phase-lock in T3_Q
+90,18.7778,0.0581,inf,-99.69,6.66e-16,StrongArnold tongue vortex filamentation
+100,21.9000,0.0424,inf,-99.81,6.66e-16,Rapid secular shear amplification
+107,23.7778,0.0340,inf,-99.86,6.66e-16,Approach to resonant blow-up peak
+112,24.5556,0.0290,inf,-99.88,7.77e-16,Near-singular resonant energy concentration
+115,24.8500,0.0264,inf,-99.89,7.77e-16,Rational resonance blow-up peak (24.85)
+118,24.5000,0.0240,inf,-99.90,7.77e-16,Onset of nonlinear resonant saturation
+125,21.3889,0.0192,inf,-99.91,8.88e-16,Post-peak resonant wave breaking
+132,17.6667,0.0154,inf,-99.91,8.88e-16,Secondary chaotic mode transfer
+140,14.9000,0.0120,inf,-99.92,8.88e-16,Post-peak resonant breakdown & oscillation
+150,13.6111,0.0087,inf,-99.94,8.88e-16,Chaotic secondary trough on T3_Q
+160,14.2222,0.0064,inf,-99.96,9.99e-16,Secondary resonant rebound
+170,15.4200,0.0046,inf,-99.97,9.99e-16,Aharonov-Bohm holonomy phase lock
+180,16.5556,0.0034,inf,-99.98,9.99e-16,Asymptotic Pisot contraction regime
+190,17.1667,0.0025,inf,-99.99,9.99e-16,Deep zero-point attractor relaxation
+200,16.8500,0.0018,inf,-99.99,9.99e-16,Asymptotic 0-Point Attractor (E_0)
