@@ -7,7 +7,7 @@ Official canonical archive for the **Grand Unified Framework** research series, 
 * **Commercial Licensing & Applied R&D:** [Arkhenetics](https://arkhenetics.com)
 * **Canonical Repository:** [github.com/arkhenomia/arkheion](https://github.com/arkhenomia/arkheion)
 * **Dataset & Telemetry Archive:** [huggingface.co/datasets/arkhenomia/arkheion](https://huggingface.co/datasets/arkhenomia/arkheion)
-* **Interactive Simulation Spaces:** [huggingface.co/spaces/arkhenomia/sim-2026-v1.5](https://huggingface.co/spaces/arkhenomia/sim-2026-v1.5)
+* **Interactive Simulation Spaces:** [huggingface.co/spaces/arkhenomia/sim-2026-v1.5.0](https://huggingface.co/spaces/arkhenomia/sim-2026-v1.5.0)
 
 ---
 
